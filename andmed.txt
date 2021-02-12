@@ -2,3 +2,4 @@ Number oli 4, päev on neljapäev
 Number oli 3, päev on kolmapäev
 Number oli 0, päev on Viga!
 Number oli 0, päev on Viga!
+Number oli 1, päev on esmaspäev
